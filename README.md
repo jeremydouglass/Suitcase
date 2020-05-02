@@ -16,7 +16,7 @@ Because of its [SwiftUI](https://developer.apple.com/xcode/swiftui/) underpinnin
 
 ### Powerful 
 
-Its power and flexibility come form the tried and trusted UNIX command line. Anything you can do in Terminal you can do in Suitcase, but with a UI and export the command as a `.command` file, to check in with a project or [share with the world](https://github.com/Impedimenta/Suitcase-Bazaar).
+Its power and flexibility come from the tried and trusted UNIX command line. Anything you can do in Terminal you can do in Suitcase, but with a UI and export the command as a `.command` file, to check in with a project or [share with the world](https://github.com/Impedimenta/Suitcase-Bazaar).
 
 ## Command-Line Utility
 
@@ -75,7 +75,7 @@ $ Suitcase --name="Demo App" --window-title="Hello World" \
 
 ![War Games](./Resources/War-Games-Example.png)
 
-A more advanced example using buttons and passing parameters to the `say` command. A [detailed explination of War Games](https://impedimenta.github.io/Suitcase-Bazaar/Examples/WarGames.html) can be found at the [Suitcase Bazaar](https://github.com/Impedimenta/Suitcase-Bazaar/).
+A more advanced example using buttons and passing parameters to the `say` command. A [detailed explanation of War Games](https://impedimenta.github.io/Suitcase-Bazaar/Examples/WarGames.html) can be found at the [Suitcase Bazaar](https://github.com/Impedimenta/Suitcase-Bazaar/).
 
 <details><summary><b>📝 Code</b></summary>
 
